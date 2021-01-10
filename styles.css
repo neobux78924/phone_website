@@ -179,7 +179,7 @@ Navigation
 }
 
 .nav__icons .icon__item:hover {
-  background-color: var(--orange);
+  background-color: var(--grey);
   border: 1px solid var(--black);
 }
 
@@ -338,7 +338,7 @@ Hero Area
 
 .hero,
 .hero .glide__slides {
-  background-color: var(--primaryColor);
+  background-color: #dce6e9;
   position: relative;
   width: 100%;
   height: 100vh;
@@ -534,7 +534,7 @@ Collection
 }
 
 .img__container {
-  width: 25rem;
+  width: 56rem;
   text-align: center;
 }
 
